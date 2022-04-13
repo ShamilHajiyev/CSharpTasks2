@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\New folder\C#\Odd or even\Odd or even\bin\Debug\netcoreapp3.1\Odd or even.exe
+C:\Users\user\Desktop\New folder\C#\Odd or even\Odd or even\bin\Debug\netcoreapp3.1\Odd or even.deps.json
+C:\Users\user\Desktop\New folder\C#\Odd or even\Odd or even\bin\Debug\netcoreapp3.1\Odd or even.runtimeconfig.json
+C:\Users\user\Desktop\New folder\C#\Odd or even\Odd or even\bin\Debug\netcoreapp3.1\Odd or even.runtimeconfig.dev.json
+C:\Users\user\Desktop\New folder\C#\Odd or even\Odd or even\bin\Debug\netcoreapp3.1\Odd or even.dll
+C:\Users\user\Desktop\New folder\C#\Odd or even\Odd or even\bin\Debug\netcoreapp3.1\Odd or even.pdb
+C:\Users\user\Desktop\New folder\C#\Odd or even\Odd or even\obj\Debug\netcoreapp3.1\Odd or even.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\C#\Odd or even\Odd or even\obj\Debug\netcoreapp3.1\Odd or even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\C#\Odd or even\Odd or even\obj\Debug\netcoreapp3.1\Odd or even.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\C#\Odd or even\Odd or even\obj\Debug\netcoreapp3.1\Odd or even.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\C#\Odd or even\Odd or even\obj\Debug\netcoreapp3.1\Odd or even.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\C#\Odd or even\Odd or even\obj\Debug\netcoreapp3.1\Odd or even.dll
+C:\Users\user\Desktop\New folder\C#\Odd or even\Odd or even\obj\Debug\netcoreapp3.1\Odd or even.pdb
+C:\Users\user\Desktop\New folder\C#\Odd or even\Odd or even\obj\Debug\netcoreapp3.1\Odd or even.genruntimeconfig.cache
