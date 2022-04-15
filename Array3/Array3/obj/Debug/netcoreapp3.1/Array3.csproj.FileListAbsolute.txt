@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\New folder\C#\Array3\Array3\bin\Debug\netcoreapp3.1\Array3.exe
+C:\Users\user\Desktop\New folder\C#\Array3\Array3\bin\Debug\netcoreapp3.1\Array3.deps.json
+C:\Users\user\Desktop\New folder\C#\Array3\Array3\bin\Debug\netcoreapp3.1\Array3.runtimeconfig.json
+C:\Users\user\Desktop\New folder\C#\Array3\Array3\bin\Debug\netcoreapp3.1\Array3.runtimeconfig.dev.json
+C:\Users\user\Desktop\New folder\C#\Array3\Array3\bin\Debug\netcoreapp3.1\Array3.dll
+C:\Users\user\Desktop\New folder\C#\Array3\Array3\bin\Debug\netcoreapp3.1\Array3.pdb
+C:\Users\user\Desktop\New folder\C#\Array3\Array3\obj\Debug\netcoreapp3.1\Array3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\C#\Array3\Array3\obj\Debug\netcoreapp3.1\Array3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\C#\Array3\Array3\obj\Debug\netcoreapp3.1\Array3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\C#\Array3\Array3\obj\Debug\netcoreapp3.1\Array3.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\C#\Array3\Array3\obj\Debug\netcoreapp3.1\Array3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\C#\Array3\Array3\obj\Debug\netcoreapp3.1\Array3.dll
+C:\Users\user\Desktop\New folder\C#\Array3\Array3\obj\Debug\netcoreapp3.1\Array3.pdb
+C:\Users\user\Desktop\New folder\C#\Array3\Array3\obj\Debug\netcoreapp3.1\Array3.genruntimeconfig.cache
